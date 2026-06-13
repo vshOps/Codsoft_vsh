@@ -4,7 +4,7 @@
 
 This repository contains all the Python programming tasks and projects completed during my internship at [CodSoft](https://www.codsoft.in?utm_source=chatgpt.com).
 
-The internship provided hands-on experience in Python programming, problem-solving, and software development. Throughout the program, I worked on multiple projects that helped strengthen my understanding of core programming concepts and improve my coding skills through practical implementation...
+The internship provided hands-on experience in Python programming, problem-solving, and software development. Throughout the program, I worked on multiple projects that helped strengthen my understanding of core programming concepts and improve my coding skills through practical implementation..
 
 ## Objectives
 
