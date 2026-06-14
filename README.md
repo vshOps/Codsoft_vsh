@@ -56,5 +56,5 @@ I would like to thank [CodSoft](https://www.codsoft.in?utm_source=chatgpt.com) f
 
 **Internship Domain:** Python Programming
 **Organization:** [CodSoft](https://www.codsoft.in?utm_source=chatgpt.com)
-**Duration:** 20th May to 20th Junw 2026
+**Duration:** 20th May to 20th June 2026
 **Status:** Completed ✅.
