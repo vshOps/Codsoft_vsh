@@ -1,4 +1,4 @@
-# TO-DO LIST APPLICATION
+
 
 # Empty list to store tasks
 tasks = []
