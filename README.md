@@ -1,4 +1,3 @@
-  
 
 # CodSoft Python Internship
 
