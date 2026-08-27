@@ -1,4 +1,4 @@
-
+ 
 # CodSoft Python Internship
 
 This repository contains all the Python programming tasks and projects completed during my internship at [CodSoft](https://www.codsoft.in?utm_source=chatgpt.com).
