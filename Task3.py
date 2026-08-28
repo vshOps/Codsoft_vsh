@@ -1,4 +1,3 @@
-# PASSWORD GENERATOR
 
 # Import random module
 import random
