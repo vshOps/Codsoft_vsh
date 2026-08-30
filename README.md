@@ -7,7 +7,7 @@ The internship provided hands-on experience in Python programming, problem-solvi
 
  
 ## Objectives  
-
+ 
 * Develop a strong foundation in Python programming.
 * Improve logical thinking and problem-solving abilities.
 * Gain experience in writing clean and efficient code.
