@@ -10,7 +10,7 @@ The internship provided hands-on experience in Python programming, problem-solvi
   
 * Develop a strong foundation in Python programming.
 * Improve logical thinking and problem-solving abilities.
-* Gain experience in writing clean and efficient code.
+* Gain experience in writing clean and efficient code. 
 * Apply theoretical concepts to real-world projects.
 * Learn best practices for project organization and documentation.
 
