@@ -6,7 +6,7 @@ This repository contains all the Python programming tasks and projects completed
 The internship provided hands-on experience in Python programming, problem-solving, and software development. Throughout the program,  I worked on multiple projects that helped strengthen my understanding of core programming concepts and improve my  coding skills through practical implementation.
 
    
-## Objectives  
+## Objectives   
    
 * Develop a strong foundation in Python programming. 
 * Improve logical thinking and problem-solving abilities. 
