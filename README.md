@@ -18,7 +18,7 @@ The internship provided hands-on experience in Python programming, problem-solvi
 
 The repository contains various internship tasks and mini-projects covering different areas of Python development, such as:
 
-* Console-based applications
+* Console-based applications 
 * Automation scripts
 * Data handling and processing
 * Problem-solving challenges
