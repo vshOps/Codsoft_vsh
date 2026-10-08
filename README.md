@@ -14,7 +14,7 @@ The internship provided hands-on experience in Python programming, problem-solvi
 * Apply theoretical concepts to real-world projects.     
 * Learn best practices for project organization and documentation.   
     
-## Projects Included
+## Projects Included  
 
 The repository contains various internship tasks and mini-projects covering different areas of Python development, such as:
 
